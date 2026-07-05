@@ -1,0 +1,19 @@
+﻿# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+ml_model/__pycache__/
+
+# ML Models
+ml_model/Fake.csv
+ml_model/True.csv
+ml_model/fake_news_model.pkl
+ml_model/tfidf_vectorizer.pkl
+
+# React
+frontend/node_modules/
+frontend/build/
+
+# Environment
+.env
+*.env
